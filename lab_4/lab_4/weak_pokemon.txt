@@ -1,0 +1,8 @@
+ID: 29
+Name: Nidoran
+Type: Poison
+Characteristics: 
+ Life: 4
+ Attack: 2
+ Defense: 5
+Weaknesses: Electric 

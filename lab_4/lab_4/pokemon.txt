@@ -1,0 +1,50 @@
+35
+Clefairy
+Fairy
+5 3 3
+Steel Poison Water Fire
+79
+Slowpoke
+Water
+6 4 4
+Grass Ghost Fairy Electric Fire
+4
+Charmander
+Fire
+3 4 3
+Water Ground Fairy
+50
+Diglett
+Ground
+1 4 2
+Water Grass
+150
+Mewtwo
+Psychic
+7 7 6
+Ghost
+151
+Mew
+Psychic
+6 6 6
+Ghost
+2905
+Rikan
+Fire
+1 5 2
+Water
+6
+Charizard
+Fire
+5 6 6
+Water
+26
+Raichu
+Electric
+4 7 4
+Fairy
+29
+Nidoran
+Poison
+4 2 5
+Electric
